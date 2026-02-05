@@ -10,7 +10,7 @@ Programam en Phython para Convertir temperatura en grados Celsius a Fahrenheit y
 - F: Fahrenheit
 - K: Kelvin
 
-$ F=(9/5*C)+32 $
+$ F=(9/5*C)+32$
 $ K=C+273.15 $
 
 ## Diseño
